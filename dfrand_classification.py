@@ -7,7 +7,6 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 import random
 n = 10000
-
 x1 = np.random.randn(n)
 x2 = np.random.randn(n)
 x3 = np.random.randn(n)
